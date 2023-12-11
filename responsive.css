@@ -1,0 +1,35 @@
+@media screen and (max-width: 500px){
+    .head img{
+        width: 300px;
+        height: 170px;
+    }
+    .head i{
+        font-size: 25px;
+    }
+    .kata-kata p{
+        font-size: 10px;
+    }
+    .kata-bag-foto i{
+        font-size: 30px;  
+
+    }
+    .foto-foto img{
+        width: 148px;
+        height: 250px;
+        padding: 10px 5px;  
+    }
+    .kata-bag-foto h1{
+        padding: 10px;
+    }
+    .kata-bag-foto2 i{
+        font-size: 25px;
+    }
+    .foto-foto-2 img{
+        width: 148px;
+        height: 250px;
+        padding: 10px 5px;  
+    }
+    .kata-bag-foto2 h1{
+        padding: 10px;
+    }
+}
